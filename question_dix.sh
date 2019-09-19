@@ -4,7 +4,7 @@
 if [ $# -gt 1 ]
 then
 {
-	echo "Le script doit etre executé de la maniere suivante : ./question_10.sh [nom_fichier_text] (a definir comme bon vous semnle)"
+	echo "Le script doit etre executé de la maniere suivante : ./question_10.sh [nom_fichier_text] (a definir comme bon vous semble)"
 }
 else
 {
